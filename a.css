@@ -50,7 +50,7 @@ button {
     backdrop-filter: blur(5.5px);
     -webkit-backdrop-filter: blur(5.5px);
     background: rgba(225, 225, 225, 0.75);
-    border: 1px solid rgba(225,225,225,0.01);
+    border: 1px solid rgba(24, 22, 22, 0.01);
 }
 
 
